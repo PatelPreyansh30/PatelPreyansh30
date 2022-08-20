@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Preyansh Patel</h1>
 <h3 align="center">I am passionate for Web Develoment</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patelpreyansh30&label=Profile%20views&color=0e75b6&style=flat" alt="patelpreyansh30" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patelpreyansh30" alt="patelpreyansh30" /></a> </p>
-
 - 🔭 I’m currently working on **personal finance management system**
 
 - 🌱 I’m currently learning **ReactJS, NodeJS**
