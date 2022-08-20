@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **personal finance management system**
 
-- 🌱 I’m currently learning **ReactJS, NodeJS**
+- 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about **python**
 
