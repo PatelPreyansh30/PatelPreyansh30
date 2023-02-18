@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Preyansh Patel</h1>
 <h3 align="center">ReactJs Developer | Passionate Front-end Developer | AI-ML Enthusiastic</h3>
 
-- 🔭 I’m currently working at **Oyebusy Pvt Ltd**
-
 - 🌱 I’m currently learning **ReactJs, Django, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://preyansh.vercel.app/](https://preyansh.vercel.app/)
