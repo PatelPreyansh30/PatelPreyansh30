@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Preyansh Patel</h1>
-<h3 align="center">ReactJs Developer | Passionate Front-end Developer | AI-ML Enthusiastic</h3>
+<h3 align="center">ReactJs Developer | Python Developer | AI-ML Enthusiastic</h3>
 
-- 🌱 I’m currently learning **ReactJs, Django, Machine Learning**
+- 🌱 I’m currently learning **ReactJS, Django, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://preyansh.vercel.app/](https://preyansh.vercel.app/)
 
-- 💬 Ask me about **ReactJs, NextJs, Python**
+- 💬 Ask me about **ReactJS, NextJS, Python**
 
 - 📫 How to reach me **patelpreyansh3011@gmail.com**
 
