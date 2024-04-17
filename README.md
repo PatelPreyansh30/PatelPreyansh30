@@ -34,6 +34,6 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patelpreyansh30&show_icons=true&locale=en&layout=compact" alt="patelpreyansh30" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patelpreyansh30&show_icons=true&locale=en&layout=compact&exclude_repo=ccc_magento_practice" alt="patelpreyansh30" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patelpreyansh30&show_icons=true&locale=en" alt="patelpreyansh30" /></p>
